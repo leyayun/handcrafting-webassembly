@@ -1,0 +1,21 @@
+{
+  "name": "handcrafting-webassembly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "distance.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0"
+  },
+  "babel": {
+    "presets": [
+      "env"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leyayun/handcrafting-webassembly.git"
+  },
+  "homepage": "https://github.com/leyayun/handcrafting-webassembly#readme"
+}
